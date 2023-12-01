@@ -1,5 +1,5 @@
 const ItemListContainer = ({greeting}) => {
-    console.log("anda")
+    
      return (
         <div>
             <h1>{greeting}</h1>
